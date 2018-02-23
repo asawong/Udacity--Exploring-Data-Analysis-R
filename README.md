@@ -4,4 +4,4 @@ Prosper是美国的一家P2P在线借贷平台，网站撮合了一些有闲钱�
 
 本项目拟通过该数据集的探索，结合自己的理解进行分析，最终目的的是初步预测哪些人贷款后会还款、哪些人会赖账。
 
-项目代码及结论见“Prosper_Loan_Exploration.html”
+受github文件大小所限，如需项目代码及结论，烦请下载“Prosper_Loan_Exploration.html”
